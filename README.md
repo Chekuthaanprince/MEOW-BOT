@@ -68,7 +68,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/Chekuthaanprince/f34ed6b03429ba67d46c709f841f69f4)   
  
   </div>
  
@@ -121,7 +121,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
   
 ### thanks for your help and support guys
-    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
+    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, ChekuthaanPrince, plk`
 
 ### when forking  
 ```
