@@ -107,10 +107,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![MEOW-BOT](https://github.com/MEOW-BOT.jpg?size=100)](https://github.com/Chekuthaanprince) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[f4ris](https://github.com/Chekuthaanprince)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  f4ris / dexter
   </div>
 
 
@@ -123,6 +120,8 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### thanks for your help and support guys
     `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, ChekuthaanPrince, plk`
 
+### IMPORTANT 😒
+ *ബോട്ടിൻ ബഗ് ഇണ്ടേൽ ഡെവലപ്പ്ഴ്സിനെ കോൺടാക്ട് ചെയ്യുക അല്ലാതെ വെളച്ചിൽ എടുക്കല്ലേ 
 ### when forking  
 ```
 add your own heroku button
