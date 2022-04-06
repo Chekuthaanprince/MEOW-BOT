@@ -1,6 +1,6 @@
-/* Codded by @phaticusthiccy
-Telegram: t.me/phaticusthiccy 
-Instagram: www.instagram.com/kyrie.baran
+/* Codded by @Chekuthaanprince/f4ris
+Telegram: t.me/8921383295 
+Instagram: www.instagram.com/pr. ince.x.__
 */
 
 const MyPnky = require('../events');
